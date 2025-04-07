@@ -1,0 +1,17 @@
+{
+  "name": "vidyo",
+  "version": "1.0.0",
+  "description": "A backend for vidyo web application, which is an youtube clone!!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "youtube",
+    "backend",
+    "vidyo"
+  ],
+  "author": "Rois Uddin Khan Emon",
+  "license": "ISC"
+}
